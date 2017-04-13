@@ -1,4 +1,4 @@
 # OLSnippets
 snippets for xcode
 
-see snippets.zip more
+see snippets.zip
